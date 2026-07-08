@@ -46,11 +46,11 @@ assets/
 
 ## Progreso
 
-| Nivel | Estado |
-|--------|--------|
-| 0 | ✅ |
-| 1 | ⏳ |
-| 2 | ⏳ |
+| Level | Status |
+|------|--------|
+| 0 | ✅ Completed |
+| 1 | ⏳ In progress |
+| 2 | ⏳ Pending |
 
 ---
 
