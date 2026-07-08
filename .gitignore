@@ -1,0 +1,14 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Archivos temporales
+*.log
+*.tmp
+*.temp
+
+# Archivos de respaldo
+*.bak
+*.swp
+*~
