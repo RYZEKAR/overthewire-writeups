@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Escribe aquí el objetivo del nivel.
+El objetivo de este nivel es que inicies sesión en el juego usando SSH. El host al que necesitas conectarte es bandit.labs.overthewire.org, en el puerto 2220. El nombre de usuario es bandit0 y la contraseña es bandit0. Una vez Iniciado sesión, ve a la página de Nivel 1 para descubrir cómo superar el Nivel 1.
 
 ---
 
