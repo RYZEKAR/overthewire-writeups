@@ -58,8 +58,9 @@ assets/
 | 7 | ✅ Completed |
 | 8 | ✅ Completed |
 | 9 | ✅ Completed |
-| 10 | ⏳ In progress |
-| 11 | ⏳ Pending |
+| 10 | ✅ Completed |
+| 11 | ⏳ In progress |
+| 12 | ⏳ Pending |
 
 ---
 
