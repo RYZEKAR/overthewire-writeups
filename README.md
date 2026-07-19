@@ -50,8 +50,9 @@ assets/
 |------|--------|
 | 0 | ✅ Completed |
 | 1 | ✅ Completed |
-| 2 | ⏳ In progress |
-| 3 | ⏳ Pending |
+| 2 | ✅ Completed |
+| 3 | ⏳ In progress |
+| 4 | ⏳ Pending |
 
 ---
 
