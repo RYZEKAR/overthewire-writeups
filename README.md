@@ -49,8 +49,9 @@ assets/
 | Level | Status |
 |------|--------|
 | 0 | ✅ Completed |
-| 1 | ⏳ In progress |
-| 2 | ⏳ Pending |
+| 1 | ✅ Completed |
+| 2 | ⏳ In progress |
+| 3 | ⏳ Pending |
 
 ---
 
