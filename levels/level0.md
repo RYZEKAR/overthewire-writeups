@@ -118,7 +118,7 @@ Nivel 0 completado correctamente. Se estableció conexión SSH exitosa, se explo
 <details>
 <summary>🔑 Contraseña obtenida para bandit1 (click para revelar)</summary>
 
-`ZjLK...` <!-- Contraseña real omitida para spoilers parciales, el usuario la reemplazará -->
+`6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR` <!-- Contraseña real omitida para spoilers parciales, el usuario la reemplazará -->
 </details>
 
 ---
